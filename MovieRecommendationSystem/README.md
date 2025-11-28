@@ -43,10 +43,11 @@ The final interactive web interface is built with Streamlit.
 
 ## Datasets
 Initial
-* 
-* 
+* credits = https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv
+* movies = https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
+
 Processeed
-processed_movies.csv
+* processed_movies.csv
 
 ## Streamlit Usage
 Run the app
